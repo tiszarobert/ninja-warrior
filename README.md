@@ -1,3 +1,3 @@
-## Web warrior  
+## Web Warrior  
 
-Stacks: GatsbyJS
+Stack: GatsbyJS
